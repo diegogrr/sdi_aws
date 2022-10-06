@@ -3,6 +3,10 @@
 ## Objetivo
 Implantar um servidor WEB utilizando uma instância EC2 pelo console de gerenciamento da AWS. Estudar sobre _user-data_ e _meta-data_.
 
+## Criar a Instância EC2
+Acesse a categoria Computação, serviço EC2.
+
+
 ## AMI
 Amazon Linux 2
 
