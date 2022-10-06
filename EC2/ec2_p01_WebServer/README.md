@@ -64,5 +64,6 @@ Pronto! Instância lançada com sucesso!
 
 Vejamos se o Servidor Web está online e acessível.
 
-![im05](https://github.com/diegogrr/sdi_aws/blob/26df8e901fd3f1120713576b70b298fa093fff92/EC2/ec2_p01_WebServer/assets/ec2_p01_img_04.gif)
+![im05](https://github.com/diegogrr/sdi_aws/blob/5687850b6f16f65d119548e583bf307fe8f98356/EC2/ec2_p01_WebServer/assets/ec2_p01_img_05.gif)
 
+Observe que o ID da instância que é mostrado no console de gerenciamento é o mesmo que aparece na página web do servidor.
