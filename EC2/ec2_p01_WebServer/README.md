@@ -13,7 +13,7 @@ Implantar um servidor WEB utilizando uma instância EC2 pelo console de gerencia
 4. Selecione o tipo de instância (ex. t3.micro) 
 5. Utilize o par de chaves que pretenda utilizar para acessar a instância remotamente.
 
-![im02](https://github.com/diegogrr/sdi_aws/blob/43a0cadb893caa18f10a72edef71cef0d7b1f21f/EC2/ec2_p01_WebServer/assets/ec2_p01_img_02.gif)
+![im02](https://github.com/diegogrr/sdi_aws/blob/a384e0fedf906ebdbdf6fc3adfdeb1cb8c9c8025/EC2/ec2_p01_WebServer/assets/ec2_p01_img_02.gif)
 
 6. 
 
