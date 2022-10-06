@@ -4,11 +4,18 @@
 Implantar um servidor WEB utilizando uma instância EC2 pelo console de gerenciamento da AWS. Estudar sobre _user-data_ e _meta-data_.
 
 ## Criar a Instância EC2
-Acesse a categoria Computação, serviço EC2.
-![etapa01](https://github.com/diegogrr/sdi_aws/blob/43a0cadb893caa18f10a72edef71cef0d7b1f21f/EC2/ec2_p01_WebServer/assets/ec2_p01_img_01.gif)
+1. Acesse a categoria Computação, serviço EC2.
 
-## AMI
-Amazon Linux 2
+![im01](https://github.com/diegogrr/sdi_aws/blob/43a0cadb893caa18f10a72edef71cef0d7b1f21f/EC2/ec2_p01_WebServer/assets/ec2_p01_img_01.gif)
+
+2. Dê um nome para instância. 
+3. Selecione a AMI Amazon Linux 2.
+4. Selecione o tipo de instância (ex. t3.micro) 
+5. Utilize o par de chaves que pretenda utilizar para acessar a instância remotamente.
+
+![im02](https://github.com/diegogrr/sdi_aws/blob/43a0cadb893caa18f10a72edef71cef0d7b1f21f/EC2/ec2_p01_WebServer/assets/ec2_p01_img_02.gif)
+
+6. 
 
 ## Detalhamento do script para user-data
 Atualizar todos os pacotes instalados.
