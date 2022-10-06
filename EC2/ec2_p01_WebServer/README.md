@@ -20,12 +20,12 @@ Implantar um servidor WEB utilizando uma instância EC2 pelo console de gerencia
 8. Habilite a opção de atribuir ip público automaticamente.
 9. Crie um grupo de segurança e adicione a regra de entrada para o tipo HTTP, tipo de origem: qualquer lugar (0.0.0.0/0)
 
-![im03](https://github.com/diegogrr/sdi_aws/blob/a384e0fedf906ebdbdf6fc3adfdeb1cb8c9c8025/EC2/ec2_p01_WebServer/assets/ec2_p01_img_02.gif)
+![im03](https://github.com/diegogrr/sdi_aws/blob/26df8e901fd3f1120713576b70b298fa093fff92/EC2/ec2_p01_WebServer/assets/ec2_p01_img_03.gif)
 
 10. Mantenha o armazenamento sugerido.
 11. Insira o conteúdo do script *`sc2_p01.sh`* no campo Dados do Usuário (_user-data_).
 
-![im04](https://github.com/diegogrr/sdi_aws/blob/a384e0fedf906ebdbdf6fc3adfdeb1cb8c9c8025/EC2/ec2_p01_WebServer/assets/ec2_p01_img_02.gif)
+![im04](https://github.com/diegogrr/sdi_aws/blob/26df8e901fd3f1120713576b70b298fa093fff92/EC2/ec2_p01_WebServer/assets/ec2_p01_img_04.gif)
 
 12. Clique em **Executar instância**
 
