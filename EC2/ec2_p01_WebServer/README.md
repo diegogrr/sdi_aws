@@ -5,7 +5,7 @@ Implantar um servidor WEB utilizando uma instância EC2 pelo console de gerencia
 
 ## Criar a Instância EC2
 Acesse a categoria Computação, serviço EC2.
-
+![etapa01](https://github.com/diegogrr/sdi_aws/blob/43a0cadb893caa18f10a72edef71cef0d7b1f21f/EC2/ec2_p01_WebServer/assets/ec2_p01_img_01.gif)
 
 ## AMI
 Amazon Linux 2
