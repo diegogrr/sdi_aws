@@ -1,0 +1,1 @@
+# Criando uma imagem de contêiner para uso no Amazon ECS

@@ -1,0 +1,2 @@
+# Amazon Elastic Container Service (ECS)
+O Amazon ECS é um serviço de orquestração de contêineres totalmente gerenciado que facilita a implantação, o gerenciamento e a escala de aplicações em contêineres. 
